@@ -1,6 +1,7 @@
 # Uber-Ride-Analysis<br><br>Project Overview
 This project analyzes Uber ride data to uncover insights about ride patterns, customer behavior, and operational performance. Using SQL for data analysis and dashboarding tools (e.g., Power BI / Tableau / Excel), the project provides both technical querying and visual storytelling.
 
+- ![Dashboard Image](https://media.istockphoto.com/id/1311247904/photo/uber-car-waiting-for-customer.jpg?s=612x612&w=0&k=20&c=jGyIr3O7N6n92Lb8DjzjAiQ0ApOeYOalvtO3012a2Zw=)
 # Objectives
 <ul>
 <li>Understand ride demand patterns (time, location, day of week, etc.)</li>
@@ -34,7 +35,7 @@ This project analyzes Uber ride data to uncover insights about ride patterns, cu
   <li>Revenue and fare insights</li>
 </ul>
 
-### summary
+
 
 
 
